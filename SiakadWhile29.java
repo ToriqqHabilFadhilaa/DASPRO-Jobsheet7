@@ -22,6 +22,7 @@ public class SiakadWhile29 {
             }
 
             if (nilai > 80 && nilai <= 100) {
+                System.out.println("Bagus, pertahankan nilainya!");
                 System.out.println("Grade: A");
             } else if (nilai > 73 && nilai <= 80) {
                 System.out.println("Grade: B+");
